@@ -2,6 +2,8 @@
 
 ## Description
 L'application est le site d'une agence evenementielle.
+L'objectif était de la débogger.
+
 ## Pre-requis
 - NodeJS  >= v16.14.1
 
